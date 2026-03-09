@@ -10,3 +10,8 @@ Vegetables
 Fruits
 Beans
 Bread
+Bar soap
+Detergent
+Scouring powder
+Vim
+Harpic
